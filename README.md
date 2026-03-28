@@ -1,3 +1,3 @@
-# 💻Programação Web
+# 📱💻Programação Web e PAM 
 
-Esse repositório tem como objetivo registrar as atividades na matéria de programação web.
+Esse repositório tem como objetivo registrar as atividades das matérias de Programação Web e de Programação de Aplicativos Mobile(PAM).
