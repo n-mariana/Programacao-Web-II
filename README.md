@@ -44,13 +44,13 @@ Este repositório está organizado para armazenar projetos acadêmicos das maté
 ## 👨‍💻 DUPLA 2
 
 📄 Pasta: `dupla-2/`  
-📌 Projetos desenvolvidos pela segunda dupla  
+📌 Projetos desenvolvidos pela dupla Ana Clara Soares da Silva Lima e Henrique Suhr.
 
-🎯 Objetivo: desenvolver atividades das disciplinas  
+🎯 Objetivo: desenvolver atividades das disciplinas  PW II e  PAM.
 
 👥 Integrantes:
-- Nome do integrante 1  
-- Nome do integrante 2  
+- Ana Clara Soares da Silva Lima 
+- Henrique Suhr
 
 📂 Conteúdo da pasta:
 - 📂
