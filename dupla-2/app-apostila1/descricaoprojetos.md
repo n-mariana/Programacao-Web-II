@@ -26,9 +26,9 @@ Desenvolvimento de Sistemas
 - Mudança da imagem utilizada
 
 ## Prints do design
-
+![Design App 1](prints/print1.png)
 ## Prints dos blocos
-
+![Blocos App 1](prints/bloco1.png)
 ---
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
@@ -42,9 +42,9 @@ Desenvolvimento de Sistemas
 - Mudança da imagem utilizada
 
 ## Prints do design
-
+![Design App 2](prints/print2.png)
 ## Prints dos blocos
-
+![Blocos App 2](prints/bloco2.png)
 ---
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
@@ -58,9 +58,9 @@ Desenvolvimento de Sistemas
 - Nenhuma alteração feita
 
 ## Prints do design
-
+![Design App 3](prints/print3.png)
 ## Prints dos blocos
-
+![Blocos App 3](prints/bloco3.png)
 ---
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
@@ -74,9 +74,9 @@ Desenvolvimento de Sistemas
 - Nenhuma alteração feita
 
 ## Prints do design
-
+![Design App 4](prints/print4.png)
 ## Prints dos blocos
-
+![Blocos App 4](prints/print4.png)
 ---
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
@@ -90,9 +90,13 @@ Desenvolvimento de Sistemas
 - Mudança das imagens utilizadas
 
 ## Prints do design
-
+![Design App 5](prints/print5_1.png)
+![Design App 5](prints/print5_2.png)
+![Design App 5](prints/print5_3.png)
 ## Prints dos blocos
-
+![Blocos App 5](prints/bloco5_1.png)
+![Blocos App 5](prints/bloco5_2.png)
+![Blocos App 5](prints/bloco5_3.png)
 ---
 
 # Projeto 6 – Sexto Aplicativo (pg. 82)
@@ -106,5 +110,6 @@ Desenvolvimento de Sistemas
 - Nenhuma alteração feita
 
 ## Prints do design
-
+![Design App 6](prints/print6.png)
 ## Prints dos blocos
+![Blocos App 5](prints/bloco6.png)
