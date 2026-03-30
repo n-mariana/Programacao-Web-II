@@ -46,7 +46,7 @@ Para esse tipo de situação, os cookies são os mais indicados e utilizados. In
 ## Exercício 3 — Pergunta de investigação 
 ### Crie um arquivo chamado teste.php com o seguinte código:
 
-``` <?php
+```<?php
 
 setcookie("contador", "1", time()+3600);
 
